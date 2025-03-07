@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 About Me  
 
-<!--
-**Bially2/Bially2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Szymon Czerny  
 
-Here are some ideas to get you started:
+I'm a **2nd-year Computer Science student** at **Gdańsk University of Technology**. Passionate about **Machine Learning 🤖, Artificial Intelligence, and Algorithms 📊**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- 💻 **Programming Languages**: C++, Python  
+- 🔬 **Interests**: Machine Learning, Artificial Intelligence, Algorithms  
+
+## 🔭 I’m currently working on  
+I am part of the **Gradient Scientific Club** 🎓, where we are developing a model for **chest cancer detecion**.  
+
+## 🌱 I’m currently learning  
+- Deep learning models for medical image analysis 🏥  
+- still learning c++ and python 
+
+## 📫 How to reach me  
+- Email: s-czerny@wp.pl 
+
+## ⚡ Fun fact  
+I`m still noob in chess
+
+## 🎯 Hobbies  
+- 📈 **Stock Market**  
+- ♟️ **Chess**  
+- 🏐 **Volleyball**  
+
+🚀 Always open to tech discussions and collaborations!  
