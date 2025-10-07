@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Szymon Czerny  
 
-I'm a **2nd-year Computer Science student** at **Gdańsk University of Technology**. Passionate about **Machine Learning 🤖, Artificial Intelligence, and Algorithms 📊**.  
+I'm a **3rd-year Computer Science student** at **Gdańsk University of Technology**. Passionate about **Machine Learning 🤖, Artificial Intelligence, and Algorithms 📊**.  
 
 ## 🚀 Skills  
 - 💻 **Programming Languages**: C++, Python  
