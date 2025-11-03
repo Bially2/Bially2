@@ -9,7 +9,7 @@ I'm a **3rd-year Computer Science student** at **Gdańsk University of Technolog
 - 🔬 **Interests**: Machine Learning, Artificial Intelligence, Algorithms  
 
 ## 🔭 I’m currently working on  
-I am part of the **Gradient Scientific Club** 🎓, where we are developing a model for **chest cancer detecion**.  
+I am part of the **Gradient Scientific Club** 🎓,also i am working on my diet mobile application 
 
 ## 🌱 I’m currently learning  
 - Deep learning models for medical image analysis 🏥  
@@ -22,7 +22,7 @@ I am part of the **Gradient Scientific Club** 🎓, where we are developing a mo
 I`m still noob in chess
 
 ## 🎯 Hobbies  
-- 📈 **Stock Market**  
+- 📈 **Analyze Stock Market**  
 - ♟️ **Chess**  
 - 🏐 **Volleyball**  
 
