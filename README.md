@@ -1,22 +1,22 @@
 # 👋 About Me  
 
-## 🧑‍💻 Szymon Czerny  
+##  Szymon Czerny  
 
-I'm a **3rd-year Computer Science student** at **Gdańsk University of Technology**. Passionate about **Machine Learning 🤖, Artificial Intelligence, and Algorithms 📊**.  
+I'm a **3rd-year Computer Science student** at **Gdańsk University of Technology**. Passionate about **Machine Learning , Artificial Intelligence, **.  
 
-## 🚀 Skills  
+##  Skills  
 - 💻 **Programming Languages**: C++, Python  
-- 🔬 **Interests**: Machine Learning, Artificial Intelligence, Algorithms  
+- 🔬 **Interests**: Machine Learning, Artificial Intelligence 
 
 ## 🔭 I’m currently working on  
 I am part of the **Gradient Scientific Club** 🎓,also i am working on my diet mobile application 
 
 ## 🌱 I’m currently learning  
-- Deep learning models for medical image analysis 🏥  
+ 
 - still learning c++ and python 
 
 ## 📫 How to reach me  
-- Email: s-czerny@wp.pl 
+- Email: szymonczerny59@gmail.com
 
 ## ⚡ Fun fact  
 I`m still noob in chess
