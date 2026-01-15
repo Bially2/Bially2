@@ -5,11 +5,11 @@
 I'm a **3rd-year Computer Science student** at **Gdańsk University of Technology**. Passionate about **Machine Learning , Artificial Intelligence, **.  
 
 ##  Skills  
-- 💻 **Programming Languages**: C++, Python  
-- 🔬 **Interests**: Machine Learning, Artificial Intelligence 
+-  **Programming Languages**: C++, Python  
+-  **Interests**: Machine Learning, Artificial Intelligence 
 
-## 🔭 I’m currently working on  
-I am part of the **Gradient Scientific Club** 🎓,also i am working on my diet mobile application 
+##  I’m currently working on  
+I am part of the **Gradient Scientific Club** ,also i am working on my diet mobile application 
 
 ##  I’m currently learning  
  
