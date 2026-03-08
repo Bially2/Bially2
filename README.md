@@ -42,6 +42,6 @@ Currently, I am an active member of the **Gradient Scientific Club**, where I co
 ### 🌐 Let's Connect:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymonczerny59@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/szymon-czerny-5207b22a4)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-czerny-5207b22a4)
 
 ---
