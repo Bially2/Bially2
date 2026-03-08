@@ -11,10 +11,6 @@ I'm a **3rd-year Computer Science student** at **Gdańsk University of Technolog
 ##  I’m currently working on  
 I am part of the **Gradient Scientific Club** ,also i am working on my diet mobile application 
 
-##  I’m currently learning  
- 
-- still learning c++ and python 
-
 ##  How to reach me  
 - Email: szymonczerny59@gmail.com
 
