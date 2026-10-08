@@ -17,15 +17,9 @@ I am also an active member of the **Gradient Scientific Club**, where I collabor
 # 💻 Tech Stack
 
 ### Salesforce
-https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white
-https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white
-![SOQL](https://img.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white
-![Lightning Web Components](https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColoruages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logo54
-![C++](https://img.shields.io/badge/c++-%2300599Cyle=for-the-badge&logo=c%2B%2B&logoColor=white
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=forbadge&logo=c&logoColor=white
-![Java](https://img.shields.io/badge/java00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-thevascript&logoColor=%23F7DF1E
+![Salesforce](https://img.shields.io/badge/Salesforce-00Athe-badge&logo=salesforce&logoColor=white
+![Apex](https://img.shields.io/badge/8C1?style=for-the-badge&logo=salesforce&logoColor=white
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor[Lightning Web Components](https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00o=salesforce&logoColor=white
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlowte
