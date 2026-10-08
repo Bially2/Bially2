@@ -14,28 +14,36 @@ I am also an active member of the **Gradient Scientific Club**, where I collabor
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Salesforce
-![Salesforce](https://img.shields.io/badge/Salesforce-00Athe-badge&logo=salesforce&logoColor=white
-![Apex](https://img.shields.io/badge/8C1?style=for-the-badge&logo=salesforce&logoColor=white
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor[Lightning Web Components](https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00o=salesforce&logoColor=white
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logogoColor=white
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white(https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&esforce&logoColor=white
+![LWC](https://img.shields.io/badge/LWC-Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforcelor=white
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&ffdd54
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=us&logoColor=white
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge=c&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=JavaScript](https://img.shields.io/badge/330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 
 ### Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlowte
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorchwhite
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=dge&logo=pandas&logoColor=white
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&=white
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker=white
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=oColor=black
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- Actions](https://img.shields.io/ions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tColor=white
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorchwhite
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColorumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor## DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?styleadge&logo=docker&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?stylebadge&logo=linux&logoColor=black
+![Git](https://img.shields.io/badge/Git-F05033?stylee-badge&logo=git&logoColor=white
+![GitHub Actions](https://img.shields.io/badge/GitHubyle=for-the-badge&logo=githubactions&logoColor=white
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql?style=for-the-badge&logo=postgresql&logoColor=white
-![MongoDB](https://img.shields.io/badge/MongoDBsvg?style=for-the-badge&logo=mongodb&logoColor=white
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?badge&logo=postgresql&logoColor=white
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mColor=white
 
 ---
 
