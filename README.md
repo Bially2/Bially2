@@ -10,7 +10,6 @@ I am currently pursuing my Engineering degree in Computer Science at Gdańsk Uni
 
 Alongside my professional work, I remain highly interested in Artificial Intelligence, Machine Learning, and DevOps. I enjoy exploring how modern AI solutions can be integrated into scalable software systems and how efficient deployment practices can improve development workflows.
 
-I am also an active member of the **Gradient Scientific Club**, where I collaborate on AI-related projects and expand my knowledge of data-driven technologies. Additionally, I work on personal software projects, including a custom diet mobile application, which allows me to continuously develop my skills in full-stack development, system design, and product-oriented thinking.
 
 ---
 
